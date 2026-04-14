@@ -9,10 +9,10 @@
 
 ## Gameplay Video
 
-(Add your YouTube or Stream link here)
+[(Add your YouTube or Stream link here)](https://youtu.be/TcfCF33JOAg)
 
 ## GitHub Repository
-(This repository link)
+[(This repository link)](https://github.com/alexa20quiroga/Treasure-In-The-Swamp/edit/main/README.md)
 
 ## Authors
 
