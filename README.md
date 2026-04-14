@@ -1,3 +1,4 @@
+![Game Screenshot](game.png)
 # Treasure-In-The-Swamp
 ## How to Play
 
